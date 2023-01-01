@@ -75,7 +75,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #f68e13;
+	background: #a7c44c;
 	margin: 0 auto;
 	margin-bottom: 20px;
 	border: 0;
@@ -101,14 +101,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #menu a.navbar-brand {
 	font-size: 22px;
-	color: #fd7e14;
+	color: #eee;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
-	color: #f68e13;
+	color: #a7c44c;
 	font-weight: 400;
 	font-size: 15px;
 	padding: 5px 0;
@@ -148,7 +148,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	text-transform: uppercase;
 	color: #fff;
 	text-shadow: 0 0 3px #859c3c;
-	background-color: #fd7e14;
+	background-color: #a7c44c;
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
@@ -185,7 +185,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	letter-spacing: -1px;
 }
 .intro span {
-	color: #fd7e14;
+	color: #a7c44c;
 	font-weight: 600;
 }
 .intro p {
@@ -265,7 +265,7 @@ ol.type li a {
 	letter-spacing: 0.5px;
 }
 ol.type li a.active {
-	background: #f68e13;
+	background: #a7c44c;
 	color: #fff;
 }
 ol.type li a:hover {
@@ -352,7 +352,7 @@ ol.type li a:hover {
 }
 #team .overlay {
 	padding: 120px 0;
-	background: rgba(246, 142, 19, 0.9);
+	background: rgba(167, 196, 76, 0.9);
 }
 #team h2, #team p {
 	color: #fff;
@@ -469,7 +469,7 @@ color: #777;
 #footer .social i.fa {
 	font-size: 26px;
 	padding: 4px;
-	color: #fd7e14;
+	color: #a7c44c;
 	transition: all 0.3s;
 }
 #footer .social i.fa:hover {
